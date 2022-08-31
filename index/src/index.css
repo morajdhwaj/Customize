@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+h1, h2  body{
+        font-family : 'chivo', serif
+    }
+}
